@@ -7,7 +7,12 @@ TwoDimensionalClusteringTool is an application that executes [K-Means Clustering
 <img width="1000" alt="TDCT cluster tab" src="https://user-images.githubusercontent.com/74831928/107558569-ffeada00-6beb-11eb-974e-7ea3e5e27347.JPG">
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.  
+
+## Used Technologies
+Visual Studio  
+C#  
+.NET Framework 4.7.2
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
